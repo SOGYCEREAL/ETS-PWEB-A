@@ -1,0 +1,10 @@
+- Run XAMPP (APACHE dan MYSQL di nyalain)
+- extrac atau taruh di htdocs -> contoh C:\xampp\htdocs\ETS\
+- Setelah itu import menejemen_karyawan.sql di /localhost/phpmyadmin/
+- Setelah itu bisa di run localhost/ETS/index.php bakal di redirect ke login.php
+- admin saja yang bisa login 
+- Login dengan di bawah ini
+- username : test
+- password : test
+- login dengan admin diatas
+- admin bisa CRUD database, membuat admin baru, log out
